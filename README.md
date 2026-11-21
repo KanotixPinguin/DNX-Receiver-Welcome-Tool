@@ -10,6 +10,12 @@
 > - **Reines Hobbyprojekt – frei nutzbar, änderbar & verbreitbar:** Dieses Projekt entsteht ausschließlich aus reinem Hobby und Interesse am gemeinsamen Funk-/SDR-Hobby. Es steht ausdrücklich frei zur Verfügung und darf frei genutzt, weiterverbreitet, verändert und verbessert werden.
 <!-- DNX-DISCLAIMER-END -->
 
+<!-- DNX-PREVIEW-START -->
+## Live-Vorschau
+
+![Live-Vorschau — DNX Receiver Welcome Tool](docs/preview.png)
+<!-- DNX-PREVIEW-END -->
+
 ## Kurzbeschreibung
 
 Mehrsprachiges Begrüßungsfenster für OpenWebRX+ (DE/EN/RU/NL mit SVG-Flaggen sowie UA, ES, ZH, JA, KO, VI, TH) inklusive Registrierungs- und Nutzungs-Hinweisen.
