@@ -31,3 +31,11 @@ Siehe [`README-WELCOME.txt`](README-WELCOME.txt) im Repository.
 ## Changelog
 
 Erstimport
+
+---
+
+## Verbindungen im DNX-Ökosystem
+
+![DNX Gesamtarchitektur & Verbindungen](docs/dnx-architektur-verbindungen.png)
+
+* **Verbindung zu `DNX-Receiver-Account-Control` (`:8095/:8096`) & `DNX-Styler` (`:8098`):** Das mehrsprachige Begrüßungsfenster verweist Besucher direkt auf Registrierung/Anmeldung, die geltenden Rollenrechte sowie die geteilten Styler-Vorlagen (`styler-willkommen-vorlagen.png`).
